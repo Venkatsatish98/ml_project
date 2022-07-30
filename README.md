@@ -29,8 +29,21 @@ To add files to git
 '''
 
 To check all the versions maintained by git
-'''git log
 '''
+git log
+'''
+
 To create a version or/commit all changes by git
-'''git commit -m "message"
+'''
+git commit -m "message"
+'''
+
+To send version/changes to github
+'''
+git push origin main
+'''
+
+To check remote url
+'''
+git remote -v
 '''
